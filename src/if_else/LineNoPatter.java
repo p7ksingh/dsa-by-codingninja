@@ -8,7 +8,7 @@ public class LineNoPatter {
 		while(i<=n) {
 			int j=1;
 			while(j<=n) {
-				System.out.print(i+" ");
+				System.out.print(j+" ");
 				j++;
 			}
 			System.out.println();
